@@ -32,7 +32,7 @@ A large hotel reservation company wants to build the next generation hotel reser
 
 Сроки: Система должна быть запущена до начала пикового сезона.
 
-![image](https://github.com/user-attachments/assets/e18afad1-7bbe-4f43-bcea-b63650af4d39)
+<img src="res/hm_01_01.png" width="1000">
 
 ## Бизнес-цели и бизнес-драйверы
 **Бизнес-драйверы**
@@ -66,7 +66,7 @@ A large hotel reservation company wants to build the next generation hotel reser
 - Как персонал отеля, я хочу видеть, какие номера необходимо убрать в первую очередь, чтобы оперативно готовить номера к заселению.
 - Как администратор, я хочу отслеживать и управлять бронированиями, статусами номеров и получать уведомления о важных изменениях.
 
-![image](https://github.com/user-attachments/assets/94b0eee9-a8ac-4680-8f66-a9ef1be98c84)
+<img src="res/hm_01_02.png" width="1000">
 
 ## Атрибуты качества (и не функциональные требования)
 - Надежность: система должна обеспечивать бесперебойный доступ к информации о номерах и статусах бронирования
